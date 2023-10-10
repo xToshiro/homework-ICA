@@ -1,0 +1,8 @@
+Erro Quadrático Médio (Implementação Incorporada): 2.0658496195502088e-30
+Erro Quadrático Médio (Implementação do Zero): 1.746699036180794e-29
+
+RMSE (Implementação do Zero): [1.4840386968539217e-15, 1.2483600313472001e-15, 1.2431908164667597e-15, 9.893591312359478e-16, 2.0895223431124373e-15]
+RMSE (Implementação Incorporada): [1.48403870e-15 1.24836003e-15 1.24319082e-15 9.89359131e-16
+ 2.08952234e-15]
+R² (Implementação do Zero): [1.0, 1.0, 1.0, 1.0, 1.0]
+R² (Implementação Incorporada): [1. 1. 1. 1. 1.]
